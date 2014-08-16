@@ -5,4 +5,4 @@ This is [https://github.com/uhyo/socketchat SocketChat] Client on CommandLine by
 *socket.io-java-client https://github.com/Gottox/socket.io-java-client
 
 ==Web Page==
-http://mamesoft.jp/soft/commandsocketchat/
+http://mamesoft.jp/soft/commandsocketchat/ (Japanese)
