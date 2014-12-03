@@ -6,3 +6,7 @@ This is [https://github.com/uhyo/socketchat SocketChat] Client on CommandLine by
 
 ==Web Page==
 http://mamesoft.jp/soft/commandsocketchat/ (Japanese)
+
+==License==
+Released under the MIT license
+see LICENSE
